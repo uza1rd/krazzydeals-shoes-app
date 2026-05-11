@@ -29,5 +29,21 @@
     "rating": 4.5,
     "badge": "Premium Quality",
     "stock": true
+  },
+  {
+    "id": 3,
+    "name": "Jordan 1 Retro High OG SP Union LA Chicago Shadow",
+    "category": "Shoes",
+    "mrp": 69999,
+    "price": 3199,
+    "images": [
+      "./assets/Products/NULA1.jpg",
+      "./assets/Products/NULA2.jpg",
+      "./assets/Products/NULA3.jpg"
+    ],
+    "description": "The Jordan 1 Retro High OG SP Union LA Chicago Shadow is a collaborative sneaker between Union LA and Nike. It merges the classic Chicago and Shadow colorways, featuring red, white, black, and grey. The design blends premium materials like leather and suede, with vintage elements for a worn-in look. As part of the OG (Original) line, it stays true to the iconic Air Jordan 1 silhouette, while the SP (Special Project) label signifies its exclusive, high-end status.",
+    "rating": 4.5,
+    "badge": "Premium Quality",
+    "stock": true
   }
 ]
