@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Adidas Samba OG",
+    "category": "Shoes",
+    "mrp": 10999,
+    "price": 2199,
+    "images": [
+      "./assets/Products/Samba1.jpg",
+      "./assets/Products/Samba2.jpg",
+      "./assets/Products/Samba3.jpg"
+    ],
+    "description": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch.",
+    "rating": 4.7,
+    "badge": "Best Seller",
+    "stock": true
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Force 1",
+    "category": "Shoes",
+    "mrp": 5799,
+    "price": 2199,
+    "images": [
+      "./assets/Products/Airforce1-1.jpg",
+      "./assets/Products/Airforce1-2.jpg"
+    ],
+    "description": "The Air Force 1, born in 1982, emerged as a revolutionary basketball shoe, the first to feature Nike Air technology. Initially designed for the basketball court, it rapidly transcended its athletic origins, becoming a staple in street style and hip-hop culture. Its introduction marked a pivotal moment, forever changing the landscape of both sports and fashion.",
+    "rating": 4.5,
+    "badge": "Premium Quality",
+    "stock": true
+  }
+]
